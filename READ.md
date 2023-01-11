@@ -14,3 +14,8 @@ Serviço de API simples que irá consumir dados de outro serviço.
     Essa URL mostrará no browser um JSON com as informações que serão consumidas.
 
 2 - Inicialize este projeto e verá no console que irá ser mostrado informações da URL que foi consumida.
+
+
+## Imagem do console com a resposta do consumo da API
+
+![console](https://user-images.githubusercontent.com/72170604/211924872-be2d29ab-95db-4df7-bffb-025d6b81d853.png)
